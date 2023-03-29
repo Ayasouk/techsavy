@@ -1,23 +1,22 @@
 ---
 title: Hello World
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "Hello World it's Ayas !"
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is my first post on my new blog ! Welcome !
 
 I'm sure I'll write a lot more interesting things in the future.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+Welcome all on this Tech enthusiast blog. You will find articles on the hottest topics in the tech industry like Artificial intelligence, Software engineering, Blockchain and a lot more to come.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+I worked for years as a IT Engineer more specifically as a Software engineer and now as a consultant.
+I participated in building several successful softwares and I am enthusiast about everything on Technology.
+So I created this blog to share you my passion and to write about everything that I found interesting to share.
+You will be the most interesting person in the room by reading frequently my articles. That's a promise.
+
+> "Knowledge is the fuel that powers the engine of innovation; it is the spark that ignites the flame of 
+> progress in our ever-evolving digital world."
 
 ![Chinese Salty Egg](./salty_egg.jpg)
 

@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Tech Savy Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Ayas Oukache`,
+      summary: `who lives and works in Paris as an engineer.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A blog that keeps you up to date with the latest tech news`,
+    siteUrl: `https://techsavy.vercel.app`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `Kipowaa1`,
     },
   },
   plugins: [

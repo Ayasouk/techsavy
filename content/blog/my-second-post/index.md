@@ -1,13 +1,11 @@
 ---
-title: My Second Post!
+title: ALOHA - The Open Source Exosqueleton released !
 date: "2015-05-06T23:46:37.121Z"
 ---
 
-Wow! I love blogging so much already.
-
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
-
-Yeah, I didn't either.
+If you are sensible for the tech news daily you certainly heard about ALOHA, a hardware system for exosqueleton that has been released and is IMPRESSIVE.
+The creator of this tech is disrupting the field by provide a exosqueleton with a challenging precision and
+this only for less than 20k$ something that has never been in the exosqueleton industry.
+They shared images and videos when we can see the device play with a ping pong ball or doing precise task.
+The device is developed by Stanford, Berkeley and Meta. It's a teleoperating system that does bimanual operation.
+([ALOHA Project Link](https://www.trossenrobotics.com/aloha.aspx))
