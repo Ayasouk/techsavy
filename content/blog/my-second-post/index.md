@@ -1,6 +1,6 @@
 ---
 title: ALOHA - The Open Source Exosqueleton released !
-date: "2015-05-06T23:46:37.121Z"
+date: "2023-03-29T12:29:37.121Z"
 ---
 
 If you are sensible for the tech news daily you certainly heard about ALOHA, a hardware system for exosqueleton that has been released and is IMPRESSIVE.
